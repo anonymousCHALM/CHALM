@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+lexical_only,boolean,0.0
+lexical_only,contradictory_update,0.0
+lexical_only,correction,0.1
+lexical_only,goal,1.0
+lexical_only,multi_fact,0.0
+lexical_only,paraphrase,0.9
+lexical_only,repeated_fact,1.0
+lexical_only,response_style,0.8
+lexical_only,stable_fact,1.0
+lexical_only,temporal,0.9

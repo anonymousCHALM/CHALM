@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+chalm,boolean,0.40963855421686746
+chalm,contradictory_update,0.8674698795180723
+chalm,correction,0.8072289156626506
+chalm,goal,1.0
+chalm,multi_fact,0.0
+chalm,paraphrase,0.926829268292683
+chalm,repeated_fact,1.0
+chalm,response_style,0.975609756097561
+chalm,stable_fact,1.0
+chalm,temporal,0.9878048780487805

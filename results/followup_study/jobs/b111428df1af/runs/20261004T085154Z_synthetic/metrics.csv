@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,bm25_growing_rag,300,0.6866666666666666
+500,bm25_growing_rag,225,0.7022222222222222
+1000,bm25_growing_rag,150,0.66
+5000,bm25_growing_rag,150,0.6933333333333334

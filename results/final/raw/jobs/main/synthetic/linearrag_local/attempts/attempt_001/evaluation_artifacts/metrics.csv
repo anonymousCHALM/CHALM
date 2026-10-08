@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,linearrag_local,300,0.6733333333333333
+500,linearrag_local,225,0.68
+1000,linearrag_local,150,0.6133333333333333
+5000,linearrag_local,150,0.6466666666666666

@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+chalm,boolean,0.1
+chalm,contradictory_update,0.4
+chalm,correction,0.6
+chalm,goal,1.0
+chalm,multi_fact,0.0
+chalm,paraphrase,0.8
+chalm,repeated_fact,0.9
+chalm,response_style,1.0
+chalm,stable_fact,0.9
+chalm,temporal,0.9

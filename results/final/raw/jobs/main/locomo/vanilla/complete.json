@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "locomo_vanilla",
+    "seed": 13,
+    "dataset": "locomo",
+    "agent": "vanilla",
+    "group": "main",
+    "training_seed": null,
+    "folder": "main/locomo/vanilla"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "b2b21aa87093f51e59b8b35fe9b16392ab1b772e4bc57db923b19bdadad5b8a3",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e2020b69569294f53b12ee19a4f856f2ea5ae395cd2f5dcab648a275ec62d1de",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "e7d1fb5a76afbd8c0e37907cffe0184d9245f15d73625047b3c6a4d09b6cf978",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "a69e145ae9b4c8796dd17e8d1c8e13486d18ad5b06cc3ede8247608ad3379424",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "447fb249c086d2c78d15fee582f67f75ebab39fe394af8551a44fafc3a784a7d"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "9ff28d6b02eb93669990579396d113c364fd7fd42b628629ede4e5a3fe55f59f",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e2020b69569294f53b12ee19a4f856f2ea5ae395cd2f5dcab648a275ec62d1de",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "e7d1fb5a76afbd8c0e37907cffe0184d9245f15d73625047b3c6a4d09b6cf978",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "a69e145ae9b4c8796dd17e8d1c8e13486d18ad5b06cc3ede8247608ad3379424",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "447fb249c086d2c78d15fee582f67f75ebab39fe394af8551a44fafc3a784a7d"
+  },
+  "release_predictions_sha256": "e2020b69569294f53b12ee19a4f856f2ea5ae395cd2f5dcab648a275ec62d1de"
+}

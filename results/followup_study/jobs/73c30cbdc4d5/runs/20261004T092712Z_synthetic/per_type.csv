@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+chalm_score_order,boolean,0.43373493975903615
+chalm_score_order,contradictory_update,0.963855421686747
+chalm_score_order,correction,0.9879518072289156
+chalm_score_order,goal,1.0
+chalm_score_order,multi_fact,0.0
+chalm_score_order,paraphrase,0.9390243902439024
+chalm_score_order,repeated_fact,1.0
+chalm_score_order,response_style,0.926829268292683
+chalm_score_order,stable_fact,1.0
+chalm_score_order,temporal,0.9878048780487805

@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,bounded_rag,300,0.68
+500,bounded_rag,225,0.6355555555555555
+1000,bounded_rag,150,0.14666666666666667
+5000,bounded_rag,150,0.0

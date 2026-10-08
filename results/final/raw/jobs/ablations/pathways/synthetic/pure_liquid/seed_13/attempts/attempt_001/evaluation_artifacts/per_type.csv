@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+pure_liquid,boolean,0.4819277108433735
+pure_liquid,contradictory_update,0.0
+pure_liquid,correction,0.0
+pure_liquid,goal,0.0
+pure_liquid,multi_fact,0.0
+pure_liquid,paraphrase,0.0
+pure_liquid,repeated_fact,0.0
+pure_liquid,response_style,1.0
+pure_liquid,stable_fact,0.0
+pure_liquid,temporal,0.0

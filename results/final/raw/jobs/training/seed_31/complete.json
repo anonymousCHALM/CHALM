@@ -1,0 +1,18 @@
+{
+  "result": "attempts/attempt_001/training_artifacts",
+  "artifacts": {
+    "attempts/attempt_001/training_artifacts/config.yaml": "6298105b7690183f236953b9b66fc4f10cfc5c15c1973244eab1073702db4da3",
+    "attempts/attempt_001/training_artifacts/dataset_manifest.json": "70be01b6c42b56eb936d87fb968778d9c93e7d6291a52c4511c0b27067a1948d",
+    "attempts/attempt_001/training_artifacts/checkpoints/best.pt": "025554c407451c1172ebc0f7758bd663b8e363c7af3fe619006ade25c9d47802",
+    "attempts/attempt_001/training_artifacts/training_metrics.json": "5f786422531c7557f54ba39ba86fa44301536689f964c3c32ff0aefde20c83d9"
+  },
+  "completed_utc": "2026-09-29T21:29:48.166044+00:00",
+  "checkpoint": "attempts/attempt_001/training_artifacts/checkpoints/best.pt",
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/training_artifacts/config.yaml": "a79a06967b441db9d418c776896929acecc81e40dc7721764ed477722ce8bb7f",
+    "attempts/attempt_001/training_artifacts/dataset_manifest.json": "70be01b6c42b56eb936d87fb968778d9c93e7d6291a52c4511c0b27067a1948d",
+    "attempts/attempt_001/training_artifacts/checkpoints/best.pt": "fe6ba5bae80bee8dceee3b11d181f2ff7037caf9cded1e10289ff308eb7b9786",
+    "attempts/attempt_001/training_artifacts/training_metrics.json": "5f786422531c7557f54ba39ba86fa44301536689f964c3c32ff0aefde20c83d9"
+  }
+}

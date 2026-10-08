@@ -1,0 +1,10 @@
+{
+  "displayed_seeds": [
+    13,
+    29,
+    31
+  ],
+  "raw_jobs": 51,
+  "metrics_sha256": "a41ee46362338fcaca9589d97bd7ad1de2cc3dd2eae021c7b9d391d0f7e0dbdf",
+  "seed_note": "The summary reports training seeds 13, 29, and 31."
+}

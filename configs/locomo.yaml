@@ -1,0 +1,16 @@
+defaults: base.yaml
+dataset:
+  name: locomo
+  input: data/external/locomo/locomo10.json
+  text_only_with_released_image_captions: true
+answer_llm:
+  abstention_response: No information available.
+evaluation:
+  agents:
+  - vanilla
+  - window
+  - rag
+  - bounded_rag
+  - chalm
+  - linearrag_local
+  qa_batch_size: 1

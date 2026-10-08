@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+difference_prefix,boolean,0.7228915662650602
+difference_prefix,contradictory_update,0.927710843373494
+difference_prefix,correction,0.963855421686747
+difference_prefix,goal,0.9634146341463414
+difference_prefix,multi_fact,0.0
+difference_prefix,paraphrase,0.9634146341463414
+difference_prefix,repeated_fact,0.9759036144578314
+difference_prefix,response_style,0.9878048780487805
+difference_prefix,stable_fact,0.9518072289156626
+difference_prefix,temporal,0.8658536585365854

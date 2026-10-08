@@ -1,0 +1,17 @@
+{
+  "raw/jobs/main/longmemeval/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/per_type.csv": "d8161f67cb4200195dc13468a7f0db70a7677264f37823ed97d1997a5437b51c",
+  "raw/jobs/main/locomo/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/per_type.csv": "a06a1094092d7e7965f91508b0bf5a6e7d8f11479dc595c898440cbbe078fc07",
+  "raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/memory.csv": "55bfa431a071cc6cebb7da2a543f7701d50d8fb5176d7b55fc26b1f7b7dbb52c",
+  "raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/latency.csv": "ca754f32d49c6f687c6e5fb33a639068c3b5af10b51b5db98c00244bb4b291ab",
+  "raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/phases.jsonl": "225abd81e59a2c53874ef12d782518df70fddd69701c937f5e278cf4d1512883",
+  "raw/jobs/main/longmemeval/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/per_type.csv": "0ac8d78e2885a97d3ec29fd36c8012baa9a6267c5fcf1809267ce4f73db79a0b",
+  "raw/jobs/main/locomo/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/per_type.csv": "2ea4fc2dbf75230b523ae09ae2363b4a0dc3118267aa9dfbb6d70566955254d0",
+  "raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/memory.csv": "55bfa431a071cc6cebb7da2a543f7701d50d8fb5176d7b55fc26b1f7b7dbb52c",
+  "raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/latency.csv": "7b280118526acaa3e43eebf879d14382d28259d130f2c3847ff8896196777468",
+  "raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/phases.jsonl": "916c545f7700708332cc2799021bae80f790c453bcfb48c2048691b28593c39a",
+  "raw/jobs/main/longmemeval/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/per_type.csv": "08c44c59964d66efd4de47bd50d17b6a69a9ae7857c0b1a7f98ee80016b3d483",
+  "raw/jobs/main/locomo/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/per_type.csv": "56039c366ce1ab34e1d3604f5182063fc631d42c0039972463dc5e096082ea32",
+  "raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/memory.csv": "55bfa431a071cc6cebb7da2a543f7701d50d8fb5176d7b55fc26b1f7b7dbb52c",
+  "raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/latency.csv": "66f1ce2c455ac5c82386619c9debcc66fd8da20d6642baf0cff42f6f9240406d",
+  "raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/phases.jsonl": "5a9baa1c04bbff688c3083bbfaccdbd4a20d4230d40d923ab8aacaff192be466"
+}

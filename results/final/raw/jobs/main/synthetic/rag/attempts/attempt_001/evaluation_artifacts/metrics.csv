@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,rag,300,0.68
+500,rag,225,0.6355555555555555
+1000,rag,150,0.62
+5000,rag,150,0.58

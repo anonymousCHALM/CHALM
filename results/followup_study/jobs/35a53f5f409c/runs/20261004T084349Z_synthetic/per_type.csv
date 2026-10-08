@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+bm25_cache,boolean,0.0
+bm25_cache,contradictory_update,0.8795180722891566
+bm25_cache,correction,0.9036144578313253
+bm25_cache,goal,1.0
+bm25_cache,multi_fact,0.0
+bm25_cache,paraphrase,0.9634146341463414
+bm25_cache,repeated_fact,1.0
+bm25_cache,response_style,0.9878048780487805
+bm25_cache,stable_fact,0.9879518072289156
+bm25_cache,temporal,0.975609756097561

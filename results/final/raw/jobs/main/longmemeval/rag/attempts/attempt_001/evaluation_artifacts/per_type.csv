@@ -1,0 +1,7 @@
+agent,question_type,examples,diagnostic_token_f1,diagnostic_exact_match,locomo_category_qa_score
+rag,knowledge-update,78,0.3257642380112016,0.23076923076923078,
+rag,multi-session,133,0.08596088925309016,0.06766917293233082,
+rag,single-session-assistant,56,0.5560793649443583,0.39285714285714285,
+rag,single-session-preference,30,0.04611419078680036,0.0,
+rag,single-session-user,20,0.24452402415789143,0.2,
+rag,temporal-reasoning,133,0.12280113296669135,0.06766917293233082,

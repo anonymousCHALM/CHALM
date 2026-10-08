@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "longmemeval_hybrid_text",
+    "seed": 13,
+    "dataset": "longmemeval",
+    "agent": "hybrid_text",
+    "group": "ablations/pathways",
+    "training_seed": null,
+    "folder": "ablations/pathways/longmemeval/hybrid_text"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "bb64f0cf087daa34a48fa8957fb07cac3e554e281e7b625d441f9aa8df4539d3",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "a9349045c56126ec7a3476736616784959fadc6728152dfe7a692d5f594669d1",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "ac17ba105f2d0e16784738d545178b5f9284bd084e36f432b99e6bd2335d9868",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "b83b89f3406ce29035149baf167ec66bf3d59c8af2de397a4088ec142b0d02ae",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "985534ea6799af872a79404511a8b49f93d74089879fa63db3f8c79af0b367bc",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "32ef0470f851b296ddc31f3eeb9fbb6c6c879e0115e440d1dc84a2bd2998be93"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "bb64f0cf087daa34a48fa8957fb07cac3e554e281e7b625d441f9aa8df4539d3",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "05799f769937aafef0a7a382dd431467617a229003490982278954bd6fe8d36a",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "ac17ba105f2d0e16784738d545178b5f9284bd084e36f432b99e6bd2335d9868",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "b83b89f3406ce29035149baf167ec66bf3d59c8af2de397a4088ec142b0d02ae",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "985534ea6799af872a79404511a8b49f93d74089879fa63db3f8c79af0b367bc",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "32ef0470f851b296ddc31f3eeb9fbb6c6c879e0115e440d1dc84a2bd2998be93"
+  },
+  "release_predictions_sha256": "ac17ba105f2d0e16784738d545178b5f9284bd084e36f432b99e6bd2335d9868"
+}

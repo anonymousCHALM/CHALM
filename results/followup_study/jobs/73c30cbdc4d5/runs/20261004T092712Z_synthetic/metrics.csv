@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,chalm_score_order,300,0.8466666666666667
+500,chalm_score_order,225,0.8266666666666667
+1000,chalm_score_order,150,0.8266666666666667
+5000,chalm_score_order,150,0.7733333333333333

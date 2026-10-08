@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,chalm,300,0.84
+500,chalm,225,0.8355555555555556
+1000,chalm,150,0.8
+5000,chalm,150,0.6866666666666666

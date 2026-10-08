@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,lexical_only,300,0.7233333333333334
+500,lexical_only,225,0.68
+1000,lexical_only,150,0.6666666666666666
+5000,lexical_only,150,0.6866666666666666

@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,hybrid_fifo_rag,300,0.6466666666666666
+500,hybrid_fifo_rag,225,0.6888888888888889
+1000,hybrid_fifo_rag,150,0.12
+5000,hybrid_fifo_rag,150,0.0

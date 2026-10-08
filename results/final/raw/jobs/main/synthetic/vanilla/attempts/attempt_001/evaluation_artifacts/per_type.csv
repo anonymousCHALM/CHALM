@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+vanilla,boolean,0.0
+vanilla,contradictory_update,0.0
+vanilla,correction,0.0
+vanilla,goal,0.0
+vanilla,multi_fact,0.0
+vanilla,paraphrase,0.0
+vanilla,repeated_fact,0.0
+vanilla,response_style,0.0
+vanilla,stable_fact,0.0
+vanilla,temporal,0.0

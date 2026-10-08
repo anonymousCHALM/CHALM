@@ -1,0 +1,934 @@
+[
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/bounded_rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/bounded_rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/chalm/seed_13/attempts/attempt_002/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/chalm/seed_13/attempts/attempt_002/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/lexical_only/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_128/lexical_only/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/bounded_rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/bounded_rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/chalm/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/lexical_only/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/capacity/synthetic/entries_256/lexical_only/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/centered_zero/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/centered_zero/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/hybrid_text/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/hybrid_text/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/lexical_only/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/lexical_only/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/locomo/pure_liquid/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/centered_zero/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/centered_zero/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/hybrid_text/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/hybrid_text/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/lexical_only/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/lexical_only/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/longmemeval/pure_liquid/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/centered_zero/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/centered_zero/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/hybrid_text/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/hybrid_text/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/lexical_only/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/lexical_only/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/ablations/pathways/synthetic/pure_liquid/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/bounded_rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/bounded_rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/linearrag_local/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/linearrag_local/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/vanilla/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/vanilla/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/window/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/window/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/bounded_rag/attempts/attempt_002/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/bounded_rag/attempts/attempt_002/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/linearrag_local/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/linearrag_local/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/vanilla/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/vanilla/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/window/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/window/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/bounded_rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/bounded_rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/linearrag_local/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/linearrag_local/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/rag/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/rag/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/vanilla/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/vanilla/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/window/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/window/attempts/attempt_001/evaluation_artifacts/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_1.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_1.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_2.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_2.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_3.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_3.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_4.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_4.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_5.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/epoch_5.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_1.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_1.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_2.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_2.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_3.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_3.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_4.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_4.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_5.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/epoch_5.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/terminal.log",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_1.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_1.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_2.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_2.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_3.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_3.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_4.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_4.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_5.json",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/epoch_5.pt",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/00664145826d/runs/20261004T054812Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/010b0061a427/runs/20261004T094410Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/01d743a7c9e0/runs/20261004T002929Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/037086b565e3/runs/20261004T114854Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/06030fd068fc/runs/20261004T043426Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/10abf4ee4849/runs/20261004T095911Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/12b2246da2b7/runs/20261004T121024Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/186d067be170/runs/20261004T101154Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/1c553aebf43d/runs/20261004T102438Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/1ce7d001be48/runs/20261004T064746Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/1ee950ffe515/runs/20261004T113605Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/1f51abe187ed/runs/20261004T083330Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/24f39ee3be97/runs/20261004T131145Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/2755f39884a3/runs/20261004T114443Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/289d07242963/runs/20261004T121859Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/2cdf0e4af65d/runs/20261004T095019Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/30927489cb7b/runs/20261004T055407Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/346460403dda/runs/20261004T074020Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/35a53f5f409c/runs/20261004T084349Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/378d3a20b139/runs/20261004T112758Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/37aaf9b5834a/runs/20261004T120331Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/3e4ed2dd1633/runs/20261004T045314Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/3eb0ab63d758/runs/20261004T065804Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/40bb5abf5dc9/runs/20261004T042612Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/44cdc09e2fcf/runs/20261004T111113Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/46bed0c28166/runs/20261003T223418Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/490448190fef/runs/20261004T031343Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/567ea8de6904/runs/20261004T071755Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/58a302a71b16/runs/20261004T055822Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/595a8246baf7/runs/20261004T050347Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/5fcec7a47d2e/runs/20261004T034947Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/62f817d02d06/runs/20261003T234739Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/63940a77521b/runs/20261004T115925Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/652e1a87d472/runs/20261004T001909Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/667f5257393e/runs/20261004T024439Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/6682444c6b95/runs/20261004T124212Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/6990d39faf4f/runs/20261004T022534Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/7341a35cccd1/runs/20261004T081144Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/73c30cbdc4d5/runs/20261004T092712Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/7a411a587d2d/runs/20261004T120547Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/7bcdc75fc642/runs/20261004T072957Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/8345e5d51778/runs/20261003T220943Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/847a91997e9c/runs/20261004T105423Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/8482e12b8837/runs/20261004T085830Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/85820f9e0b11/runs/20261004T103314Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/873ba5b1655b/runs/20261004T102030Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/8838c8645cf6/runs/20261004T070659Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/8a5a20f9fb09/runs/20261004T130028Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/8f8599daa5ec/runs/20261003T223037Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/93924d9f973d/runs/20261004T063825Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/93edffe92062/runs/20261004T030522Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/970a264ddba9/runs/20261003T221339Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/98e9187ce86a/runs/20261004T100744Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9a1344098c93/runs/20261004T123242Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9ab1ab05a192/runs/20261004T050004Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9b375dba57b9/runs/20261003T234148Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9cb0877d2528/runs/20261004T052647Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9e11658d6667/runs/20261004T091708Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/9e241b2e1b58/runs/20261004T060944Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/a0a21c2789a5/runs/20261004T053633Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/a4b813f6ee75/runs/20261004T115459Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/a98dadb94055/runs/20261004T010505Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/ab191ade3d4a/runs/20261004T125124Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/ae7306314cf4/runs/20261004T090619Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/b111428df1af/runs/20261004T085154Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/b68ce7395e43/runs/20261003T232405Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/b7b9c141c08f/runs/20261004T000853Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/ba6097e51230/runs/20261004T033139Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/bc2671c991ac/runs/20261004T012414Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/bdd326bdef5a/runs/20261004T051515Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c0cac233b8eb/runs/20261004T062327Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c3c1b9c08793/runs/20261004T044047Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c4739b08c2e3/runs/20261004T122702Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c5648d183291/runs/20261004T102856Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c627da00c33f/runs/20261004T014147Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c7ca8fe35b6a/runs/20261003T220249Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c883631fd325/runs/20261003T222409Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/c8dff0d9b4bf/runs/20261004T123831Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/cb45e9ac9deb/runs/20261004T122045Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/cbee65664af4/runs/20261003T235327Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/cf6015e1541f/runs/20261004T044706Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/d0495507dcaf/runs/20261003T235911Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/d34cda0c452e/runs/20261004T075039Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/d48aef2f4b28/runs/20261004T020746Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/d8bc2a78d2e2/runs/20261004T080047Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/dcdcd648385e/runs/20261004T050929Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e2eed9ce26d4/runs/20261004T015006Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e334372a2f41/runs/20261004T082338Z_locomo/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e41f23b8639d/runs/20261004T054225Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e4f6663aaa61/runs/20261004T040925Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e553ed8d09b0/runs/20261004T052101Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e684c33eba54/runs/20261004T115039Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e70225bece75/runs/20261004T114022Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e9a4d62d9a50/runs/20261004T100328Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/e9edf6be2c12/runs/20261003T230156Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/f207e9d36674/runs/20261004T053032Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/f2e6efa53175/runs/20261004T090221Z_longmemeval/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/f325e6f49056/runs/20261004T101613Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/f47b3f67b60d/runs/20261004T004719Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/f729f027470a/runs/20261004T121449Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/fb807824bdcb/runs/20261004T103722Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/followup_study/jobs/fc6214255905/runs/20261003T224427Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/evaluation_study/jobs/priority/synthetic/hybrid_fifo_rag/checkpoint_13/eval_29001/runs/20261001T154056Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  },
+  {
+    "path": "results/evaluation_study/jobs/priority/synthetic/hybrid_growing_rag/checkpoint_13/eval_29001/runs/20261001T153044Z_synthetic/errors.jsonl",
+    "reason": "Intermediate or redundant artifact"
+  }
+]

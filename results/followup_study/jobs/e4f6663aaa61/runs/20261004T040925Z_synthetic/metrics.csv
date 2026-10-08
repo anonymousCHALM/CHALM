@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,difference_prefix,300,0.72
+500,difference_prefix,225,0.7288888888888889
+1000,difference_prefix,150,0.7
+5000,difference_prefix,150,0.7133333333333334

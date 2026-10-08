@@ -1,0 +1,7 @@
+agent,question_type,examples,diagnostic_token_f1,diagnostic_exact_match,locomo_category_qa_score
+pure_liquid,knowledge-update,78,0.09594017094017095,0.05128205128205128,
+pure_liquid,multi-session,133,0.015682062298603652,0.007518796992481203,
+pure_liquid,single-session-assistant,56,0.06943542444769028,0.03571428571428571,
+pure_liquid,single-session-preference,30,0.028896484040863552,0.0,
+pure_liquid,single-session-user,20,0.024761904761904763,0.0,
+pure_liquid,temporal-reasoning,133,0.13771905336043516,0.045112781954887216,

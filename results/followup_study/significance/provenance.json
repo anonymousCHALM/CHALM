@@ -1,0 +1,23 @@
+{
+  "samples": 10000,
+  "seed": 20261001,
+  "sources": {
+    "results/followup_study/jobs/01d743a7c9e0/runs/20261004T002929Z_synthetic/predictions.jsonl": "54e663e02bacbdce0e15ae09e324a26e77432a6ba3d007f897aa4336b970fbfc",
+    "results/followup_study/jobs/06030fd068fc/runs/20261004T043426Z_longmemeval/predictions.jsonl": "981813bd735a35005acea90bbbe19fa8c31535e4887a7b381df2c83f9a95baf0",
+    "results/followup_study/jobs/35a53f5f409c/runs/20261004T084349Z_synthetic/predictions.jsonl": "1729ad888481f227a069d1b1afc0473799e72a8ca715e52dd5d065d83644051d",
+    "results/followup_study/jobs/3eb0ab63d758/runs/20261004T065804Z_locomo/predictions.jsonl": "3c00c72de7ec505016b9a16b5ef17610ab5afb19a40a608dd68cf9ade6b99fbe",
+    "results/followup_study/jobs/490448190fef/runs/20261004T031343Z_synthetic/predictions.jsonl": "448a98624a2c54595f94d36db8290513a14a6baa7c1034f3e6fa07f47899396e",
+    "results/followup_study/jobs/58a302a71b16/runs/20261004T055822Z_locomo/predictions.jsonl": "e1c5e531e7436666c36820725d0fdf9a7f94fd9a3308677f6a48215e60a4366d",
+    "results/followup_study/jobs/595a8246baf7/runs/20261004T050347Z_longmemeval/predictions.jsonl": "bd231ae97574feca9811568b09aa3682ea3fe27e6302dad2b3d3466505e6d600",
+    "results/followup_study/jobs/8345e5d51778/runs/20261003T220943Z_longmemeval/predictions.jsonl": "7d859f4b3f6b1d662e6f2530021ba66260bdfc03210b1396a1ac15114314828c",
+    "results/followup_study/jobs/8482e12b8837/runs/20261004T085830Z_longmemeval/predictions.jsonl": "c078162dc6acc8b3e8912801cacc1313d0da8cbd3674b3cfee236177f38ffe6d",
+    "results/followup_study/jobs/970a264ddba9/runs/20261003T221339Z_locomo/predictions.jsonl": "85b56dee98c864e3fca486a667c015013a58522e88c34c78a0905af738686372",
+    "results/followup_study/jobs/ae7306314cf4/runs/20261004T090619Z_locomo/predictions.jsonl": "284d462c19b809c455e810d2c173ec75609a452bed9039adf156fbeff7717b96",
+    "results/followup_study/jobs/c7ca8fe35b6a/runs/20261003T220249Z_synthetic/predictions.jsonl": "fa2ac54c9b8f2a6c1efe8c7838fadc546902d9a002b94f6522b6dd002209b0e1",
+    "results/followup_study/jobs/d34cda0c452e/runs/20261004T075039Z_locomo/predictions.jsonl": "5c1f5895486da3c6096ef7836985c3e15906ea3fcdfc69756bc856106796f6cd",
+    "results/followup_study/jobs/e2eed9ce26d4/runs/20261004T015006Z_synthetic/predictions.jsonl": "39d94de58cf1a63d6ed6e9ecfce5db969bd12bb3d5ba5acf1351e7e6c57fce6e",
+    "results/followup_study/jobs/f207e9d36674/runs/20261004T053032Z_longmemeval/predictions.jsonl": "0176fb6925c14307e8be4c7bad175878a4822c756823216e851d8acafbe5b4fe"
+  },
+  "missing": [],
+  "method": "Same paired percentile bootstrap and paired cluster sign randomization; LoCoMo clusters conversations. Average checkpoints within question; Holm across aggregate rows only. Partial aggregates explicitly flagged."
+}

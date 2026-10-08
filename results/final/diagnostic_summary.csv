@@ -1,0 +1,16 @@
+dataset,subgroup,metric,mean,sample_sd,training_checkpoints
+locomo,category-1,locomo_category_qa_score,18.954062365250458,0.5309987305422071,3
+locomo,category-2,locomo_category_qa_score,24.187011788257895,2.563881334734816,3
+locomo,category-3,locomo_category_qa_score,11.7337577258717,1.906934311159301,3
+locomo,category-4,locomo_category_qa_score,39.20610516106799,1.9611588751942244,3
+locomo,category-5,locomo_category_qa_score,48.87892376681614,4.932735426008968,3
+longmemeval,knowledge-update,diagnostic_token_f1,49.172484435642325,3.168723492753171,3
+longmemeval,multi-session,diagnostic_token_f1,10.695615490940675,0.3015835993438509,3
+longmemeval,single-session-assistant,diagnostic_token_f1,48.31147033046112,2.776537249308745,3
+longmemeval,single-session-preference,diagnostic_token_f1,6.147584304535558,2.197821816856092,3
+longmemeval,single-session-user,diagnostic_token_f1,54.022995565329666,11.059943742921746,3
+longmemeval,temporal-reasoning,diagnostic_token_f1,16.934872519532203,2.2966869581114824,3
+synthetic,5000,bytes,1.318912,0.0,3
+synthetic,5000,end_to_end_ms,4253.7184248890035,898.9442974624945,3
+synthetic,5000,read_ms,13.701713333389812,0.8435177036395886,3
+synthetic,5000,torch_peak_GB,6.338389504,0.0,3

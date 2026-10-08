@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+uncentered,boolean,0.0
+uncentered,contradictory_update,0.9036144578313253
+uncentered,correction,0.9759036144578314
+uncentered,goal,0.975609756097561
+uncentered,multi_fact,0.0
+uncentered,paraphrase,0.7195121951219512
+uncentered,repeated_fact,1.0
+uncentered,response_style,1.0
+uncentered,stable_fact,1.0
+uncentered,temporal,0.5609756097560976

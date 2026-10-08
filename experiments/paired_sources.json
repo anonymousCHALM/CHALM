@@ -1,0 +1,137 @@
+[
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "locomo",
+    "training_seed": 13,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "locomo",
+    "training_seed": 29,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "locomo",
+    "training_seed": 31,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "locomo",
+    "training_seed": null,
+    "agents": [
+      "linearrag_local"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/locomo/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "locomo",
+    "training_seed": null,
+    "agents": [
+      "rag"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "longmemeval",
+    "training_seed": 13,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "longmemeval",
+    "training_seed": 29,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "longmemeval",
+    "training_seed": 31,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "longmemeval",
+    "training_seed": null,
+    "agents": [
+      "linearrag_local"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/longmemeval/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "longmemeval",
+    "training_seed": null,
+    "agents": [
+      "rag"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "synthetic",
+    "training_seed": 13,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "synthetic",
+    "training_seed": 29,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "synthetic",
+    "training_seed": 31,
+    "agents": [
+      "chalm"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "synthetic",
+    "training_seed": null,
+    "agents": [
+      "linearrag_local"
+    ],
+    "suite": "main"
+  },
+  {
+    "path": "results/final/raw/jobs/main/synthetic/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl",
+    "dataset": "synthetic",
+    "training_seed": null,
+    "agents": [
+      "rag"
+    ],
+    "suite": "main"
+  }
+]

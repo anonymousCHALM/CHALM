@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+difference_prefix,1986,,0.21054494061794082,0.08559919436052367,0.32173379989983664

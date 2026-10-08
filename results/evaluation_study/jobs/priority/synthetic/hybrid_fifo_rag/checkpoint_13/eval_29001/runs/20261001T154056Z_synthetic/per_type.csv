@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+hybrid_fifo_rag,boolean,0.0
+hybrid_fifo_rag,contradictory_update,0.6987951807228916
+hybrid_fifo_rag,correction,0.6626506024096386
+hybrid_fifo_rag,goal,0.6219512195121951
+hybrid_fifo_rag,multi_fact,0.0
+hybrid_fifo_rag,paraphrase,0.32926829268292684
+hybrid_fifo_rag,repeated_fact,0.7108433734939759
+hybrid_fifo_rag,response_style,0.25609756097560976
+hybrid_fifo_rag,stable_fact,0.5783132530120482
+hybrid_fifo_rag,temporal,0.5853658536585366

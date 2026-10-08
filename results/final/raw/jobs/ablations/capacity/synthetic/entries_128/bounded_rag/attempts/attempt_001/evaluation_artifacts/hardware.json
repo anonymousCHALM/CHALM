@@ -1,0 +1,11 @@
+{
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "cuda_available": true,
+  "gpus": [
+    "NVIDIA GeForce RTX 5080"
+  ],
+  "torch_threads": 24,
+  "gpu_total_memory_bytes": [
+    17094475776
+  ]
+}

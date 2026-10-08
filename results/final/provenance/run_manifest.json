@@ -1,0 +1,30 @@
+{
+  "purpose": "Provenance for the three CHALM training checkpoints",
+  "training_seeds": [
+    13,
+    29,
+    31
+  ],
+  "checkpoint_sha256": {
+    "13": "6afcc0369acedf0a388160c2cdc8c340d0eeb087f208afaa38623eb98e0a5a5b",
+    "29": "efab2330a2e6d16f4a6933394f4fb5597cb528206b875dda9fbd3d02e4b513f8",
+    "31": "025554c407451c1172ebc0f7758bd663b8e363c7af3fe619006ade25c9d47802"
+  },
+  "datasets": {
+    "longmemeval": "d6f21ea9d60a0d56f34a05b609c79c88a451d2ae03597821ea3d5a9678c3a442",
+    "locomo": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4"
+  },
+  "evaluation_seed": 29001,
+  "synthetic_examples_by_horizon": {
+    "100": 300,
+    "500": 225,
+    "1000": 150,
+    "5000": 150
+  },
+  "interpretation": "Results for training seeds 13, 29, and 31 under the fixed evaluation protocol.",
+  "release_checkpoint_sha256": {
+    "13": "99a96d35929294cd9889c5c9b437cbeb036cd0729a4af6c34e23c1dd70a451ac",
+    "29": "c4012be2c9c6f0dbfc854b93429854547e7caeba759eff5f878980a9b3b4fc08",
+    "31": "fe6ba5bae80bee8dceee3b11d181f2ff7037caf9cded1e10289ff308eb7b9786"
+  }
+}

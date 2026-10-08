@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "synthetic_vanilla",
+    "seed": 7,
+    "dataset": "synthetic",
+    "agent": "vanilla",
+    "group": "main",
+    "training_seed": null,
+    "folder": "main/synthetic/vanilla"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "5753eb4b8c11a3cd01f60cb198f66e8853077366daa30e90f7180cff654fe4c3",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "2ab0c53b558db9bf981cc9c6fd7cedb0eb5e8f9074d2e6e8c91c656638019184",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "1cf4431555aa5bc2f2fa047c93837d4d914009e07ec0bf5422747caa9c4ae5ec",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "ca73d037647ed8aff5dfc050476bdebc45e8c47603bcdaf8e266b8b2a3f9cc14",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "a0faff6d1f1be61c6be29c581c6f80b547b4d644e53b3451464342c254ae470b",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "35548f45c74fb30edefefd12dcf9a3c22d12bcaedfeadcd34276847e3d660a57"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "5753eb4b8c11a3cd01f60cb198f66e8853077366daa30e90f7180cff654fe4c3",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "1cbd73de0eab299b5838f201457b6295dc935b40f8f261ccf8e25b84280a460c",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "1cf4431555aa5bc2f2fa047c93837d4d914009e07ec0bf5422747caa9c4ae5ec",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "ca73d037647ed8aff5dfc050476bdebc45e8c47603bcdaf8e266b8b2a3f9cc14",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "a0faff6d1f1be61c6be29c581c6f80b547b4d644e53b3451464342c254ae470b",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "35548f45c74fb30edefefd12dcf9a3c22d12bcaedfeadcd34276847e3d660a57"
+  },
+  "release_predictions_sha256": "1cf4431555aa5bc2f2fa047c93837d4d914009e07ec0bf5422747caa9c4ae5ec"
+}

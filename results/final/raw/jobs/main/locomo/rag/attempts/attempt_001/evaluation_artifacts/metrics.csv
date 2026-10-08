@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+rag,1986,,0.17034181130646117,0.06545820745216516,0.314396698433177

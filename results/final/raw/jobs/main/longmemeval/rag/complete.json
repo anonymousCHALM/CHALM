@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "longmemeval_rag",
+    "seed": 13,
+    "dataset": "longmemeval",
+    "agent": "rag",
+    "group": "main",
+    "training_seed": null,
+    "folder": "main/longmemeval/rag"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "1dfa7456092d7930878a4f7416bccede77bac50a433a70de8cb9958b09b88a24",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "2a6d177756578e213a0e012648884830f6b53873c5ca571651e69b1bcdfa404c",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e146ce9b851832bbdea88e492a1041bcec0c232f0aa0747ac3569534df45031d",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "a94cf70c6bce5d8f67046cb2d32b14b6b74dc952f9ec11d244b955c96749165b",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "2bbfb4fa13fac370f2b5119190365407bb4553c1e0bbf9c58103019383c0f5c3",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "a0a40f6c266d97d7086262bea2b4cfc29df5947dc0ecb9dc1952a57b3797e645"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "1dfa7456092d7930878a4f7416bccede77bac50a433a70de8cb9958b09b88a24",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "d0ed08f1ce3ddba52710d4949633c2ca950517cefc8679ba1ed407c7ad15c52c",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e146ce9b851832bbdea88e492a1041bcec0c232f0aa0747ac3569534df45031d",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "a94cf70c6bce5d8f67046cb2d32b14b6b74dc952f9ec11d244b955c96749165b",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "2bbfb4fa13fac370f2b5119190365407bb4553c1e0bbf9c58103019383c0f5c3",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "a0a40f6c266d97d7086262bea2b4cfc29df5947dc0ecb9dc1952a57b3797e645"
+  },
+  "release_predictions_sha256": "e146ce9b851832bbdea88e492a1041bcec0c232f0aa0747ac3569534df45031d"
+}

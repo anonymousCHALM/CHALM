@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match
+hybrid_growing_rag,450,,0.2544678238647393,0.18222222222222223

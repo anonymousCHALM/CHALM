@@ -1,0 +1,22 @@
+{
+  "samples": 10000,
+  "seed": 20261001,
+  "sources": {
+    "results/final/raw/jobs/main/locomo/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e1c5e531e7436666c36820725d0fdf9a7f94fd9a3308677f6a48215e60a4366d",
+    "results/final/raw/jobs/main/locomo/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "3c00c72de7ec505016b9a16b5ef17610ab5afb19a40a608dd68cf9ade6b99fbe",
+    "results/final/raw/jobs/main/locomo/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "5c1f5895486da3c6096ef7836985c3e15906ea3fcdfc69756bc856106796f6cd",
+    "results/final/raw/jobs/main/locomo/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "2c3dcdb4e226d76b9d6b883cdd8639751de657443b254fa5e63d4ae636d7e56d",
+    "results/final/raw/jobs/main/locomo/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "972f8f30e8f9aa508ee2c67e34e773ba3996b73c1a61de8aac5069f09c391095",
+    "results/final/raw/jobs/main/longmemeval/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "981813bd735a35005acea90bbbe19fa8c31535e4887a7b381df2c83f9a95baf0",
+    "results/final/raw/jobs/main/longmemeval/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "bd231ae97574feca9811568b09aa3682ea3fe27e6302dad2b3d3466505e6d600",
+    "results/final/raw/jobs/main/longmemeval/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "0176fb6925c14307e8be4c7bad175878a4822c756823216e851d8acafbe5b4fe",
+    "results/final/raw/jobs/main/longmemeval/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "0bb150d7ee8b4426330e02dac1d6cf2a717a83fb3f69bfc1d0ac60e9859a50ee",
+    "results/final/raw/jobs/main/longmemeval/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e146ce9b851832bbdea88e492a1041bcec0c232f0aa0747ac3569534df45031d",
+    "results/final/raw/jobs/main/synthetic/chalm/seed_13/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "54e663e02bacbdce0e15ae09e324a26e77432a6ba3d007f897aa4336b970fbfc",
+    "results/final/raw/jobs/main/synthetic/chalm/seed_29/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "39d94de58cf1a63d6ed6e9ecfce5db969bd12bb3d5ba5acf1351e7e6c57fce6e",
+    "results/final/raw/jobs/main/synthetic/chalm/seed_31/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "448a98624a2c54595f94d36db8290513a14a6baa7c1034f3e6fa07f47899396e",
+    "results/final/raw/jobs/main/synthetic/linearrag_local/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "f5d6a6384510b7569b6bf7c3bcf9f507712513aead4e7f81e872dc63e6cc8696",
+    "results/final/raw/jobs/main/synthetic/rag/attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "2ba355a47fcaeb654e52a171923d81a82d7767d7ee78094b4d171ea2cd85d60f"
+  },
+  "method": "Paired percentile bootstrap CI; two-sided paired cluster sign randomization p; Holm across aggregate comparisons only. Aggregate averages checkpoints within question; conditional on fitted checkpoints. LoCoMo conversation clusters."
+}

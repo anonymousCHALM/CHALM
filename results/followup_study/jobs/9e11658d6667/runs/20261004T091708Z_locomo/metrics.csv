@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+bm25_growing_rag,1986,,0.20257661881201716,0.08459214501510574,0.324092912624704

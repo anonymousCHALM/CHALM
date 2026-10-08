@@ -1,0 +1,10 @@
+dataset,horizon,metric,seeds,n,mean_percent,sample_sd_percent
+synthetic,100,accuracy,"13,29,31",3,72.77777778,10.44739911
+synthetic,500,accuracy,"13,29,31",3,72.88888889,8.85549282
+synthetic,1000,accuracy,"13,29,31",3,74.44444444,5.74778540
+synthetic,5000,accuracy,"13,29,31",3,72.44444444,6.71096394
+longmemeval,,diagnostic_token_f1,"13,29,31",3,25.51252993,1.56691684
+longmemeval,,diagnostic_exact_match,"13,29,31",3,17.18518519,0.46259244
+locomo,,diagnostic_token_f1,"13,29,31",3,23.42901855,1.07302109
+locomo,,diagnostic_exact_match,"13,29,31",3,10.20476670,0.93163404
+locomo,,locomo_official_qa_score,"13,29,31",3,34.74715587,1.81696255

@@ -1,0 +1,20 @@
+defaults: base.yaml
+dataset:
+  name: longmemeval
+  input: data/external/longmemeval/longmemeval_s_cleaned.json
+  preserve_session_dates: true
+  preserve_question_dates: true
+evaluation:
+  official_evaluator: external/LongMemEval/src/evaluation/evaluate_qa.py
+  diagnostic_metrics:
+  - token_f1
+  - exact_answer_inclusion
+  - gold_session_recall
+  - evidence_coverage
+  agents:
+  - vanilla
+  - window
+  - rag
+  - bounded_rag
+  - chalm
+  - linearrag_local

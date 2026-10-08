@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+chalm,1986,,0.2445031329983537,0.11278952668680765,0.36845122028973465

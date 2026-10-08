@@ -1,0 +1,117 @@
+answer_llm:
+  max_input_tokens: 4096
+  max_new_tokens: 64
+  model: Qwen/Qwen2.5-3B-Instruct
+  provider: transformers_local
+  revision: null
+  temperature: 0.0
+bounded_rag:
+  capacity: 512
+  max_context_chars: 12000
+  max_text_bytes: 1024
+  top_k: 8
+dataset:
+  correction_style: original
+  examples: 100
+  examples_by_horizon:
+    100: 300
+    500: 225
+    1000: 150
+    5000: 150
+  name: synthetic
+  train_seed: 1000
+  turns:
+  - 100
+  - 500
+  - 1000
+  - 5000
+  validation_seed: 2000
+embedding:
+  model: sentence-transformers/all-MiniLM-L6-v2
+  provider: sentence_transformers
+evaluation:
+  agents:
+  - difference_prefix
+  paired_bootstrap_samples: 10000
+  qa_batch_size: 1
+execution:
+  agents:
+  - difference_prefix
+  checkpoint: ./results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/best.pt
+  examples_per_horizon:
+    100: 300
+    500: 225
+    1000: 150
+    5000: 150
+  horizons:
+  - 100
+  - 500
+  - 1000
+  - 5000
+  smoke: false
+linearrag_local:
+  bridge_threshold: 0.4
+  damping: 0.5
+  hops: 3
+  ner_model: en_core_web_sm
+  passage_ratio: 2.0
+  passage_weight: 0.05
+  sentences_per_entity: 3
+liquid:
+  dt: 0.1
+  lexical_bytes: 256
+  lexical_memory:
+    capacity: 512
+    correction_cues:
+    - 'correction:'
+    - actually
+    - instead
+    - 'not '
+    - 'now '
+    - changed
+    - currently
+    - 'update:'
+    enabled: true
+    max_text_bytes: 1024
+    prefix_scale: 0.1
+    redundancy_threshold: 0.82
+    replacement_rule: cue_gated
+    top_k: 8
+  prefix_tokens: 16
+  slots: 8
+  state_dim: 256
+  storage_dtype: float32
+  tau_max: 20.0
+  tau_min: 0.1
+protocol:
+  agent: difference_prefix
+  correction_style: original
+  dataset: synthetic
+  evaluation_seed: 29001
+  group: ablations
+  horizons: null
+  project: CHALM
+  training_seed: 29
+  version: 1
+rag:
+  index: flat_inner_product
+  max_context_chars: 12000
+  max_turn_chars: 2000
+  top_k: 8
+run:
+  immutable: true
+  output_root: ./results/followup_study/jobs/667f5257393e/runs
+  seed: 29001
+run_kind: evaluation
+training:
+  alignment_weight: 0.0
+  correction_loss: true
+  epochs: 5
+  examples: 1500
+  horizons:
+  - 32
+  - 64
+  - 128
+  - 256
+  learning_rate: 0.0003
+  lexical_context: true

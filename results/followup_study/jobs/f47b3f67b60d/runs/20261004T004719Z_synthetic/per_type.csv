@@ -1,0 +1,11 @@
+agent,question_type,accuracy
+hybrid_text,boolean,0.0
+hybrid_text,contradictory_update,0.927710843373494
+hybrid_text,correction,0.8795180722891566
+hybrid_text,goal,1.0
+hybrid_text,multi_fact,0.0
+hybrid_text,paraphrase,0.926829268292683
+hybrid_text,repeated_fact,1.0
+hybrid_text,response_style,0.9878048780487805
+hybrid_text,stable_fact,0.9879518072289156
+hybrid_text,temporal,0.9634146341463414

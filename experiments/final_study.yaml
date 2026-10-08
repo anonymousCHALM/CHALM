@@ -1,0 +1,35 @@
+training_seeds:
+- 13
+- 29
+- 31
+training_data_seed: 1000
+evaluation_seed: 29001
+output: results/reproduction
+training_epochs: 5
+training_examples: 1500
+synthetic_examples_by_horizon:
+  100: 300
+  500: 225
+  1000: 150
+  5000: 150
+main_method: chalm
+baselines:
+- vanilla
+- window
+- rag
+- bounded_rag
+- linearrag_local
+shared_ablations:
+- lexical_only
+- centered_zero
+- hybrid_text
+checkpoint_methods:
+- pure_liquid
+- chalm
+capacity_sweep:
+- 128
+- 256
+capacity_methods:
+- bounded_rag
+- lexical_only
+- chalm

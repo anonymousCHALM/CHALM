@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,window,300,0.15
+500,window,225,0.0
+1000,window,150,0.0
+5000,window,150,0.0

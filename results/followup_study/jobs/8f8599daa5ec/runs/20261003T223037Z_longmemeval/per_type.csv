@@ -1,0 +1,7 @@
+agent,question_type,examples,diagnostic_token_f1,diagnostic_exact_match,locomo_category_qa_score
+hybrid_fifo_rag,knowledge-update,78,0.46021006284164184,0.3717948717948718,
+hybrid_fifo_rag,multi-session,133,0.09651226769920544,0.07518796992481203,
+hybrid_fifo_rag,single-session-assistant,56,0.49070836342193613,0.3392857142857143,
+hybrid_fifo_rag,single-session-preference,30,0.04187717519810914,0.0,
+hybrid_fifo_rag,single-session-user,20,0.3969049765388438,0.3,
+hybrid_fifo_rag,temporal-reasoning,133,0.14413291970686207,0.05263157894736842,

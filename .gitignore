@@ -1,0 +1,20 @@
+# Local environments and caches
+.venv/
+venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+# Downloaded inputs and regenerated outputs
+data/external/
+data/cache/
+models/
+.cache/
+huggingface/
+results/reproduction/
+results/smoke/

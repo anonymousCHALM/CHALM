@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "locomo_rag",
+    "seed": 13,
+    "dataset": "locomo",
+    "agent": "rag",
+    "group": "main",
+    "training_seed": null,
+    "folder": "main/locomo/rag"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "3ab3163f5140a87968708db805aa03e23efd1674dc5c0f64298922700a3a1ef1",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "972f8f30e8f9aa508ee2c67e34e773ba3996b73c1a61de8aac5069f09c391095",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "dd7fba67b56e14a5043329f711f4886456dc60572bdf07958971cc67715ad6af",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "503723a4d15ba80a2cb2b3320ab2d5e49b84feb615e6fbdbdc32c6fb4e848db5",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "3127720bdf0532a4876931a3cb106167756985f15d3e17d423bf1d61e9fdc0cc"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "80f473e9aa844ecb906d1a63063d1805d5af8c8917f97d3ed031b6523e66a740",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "972f8f30e8f9aa508ee2c67e34e773ba3996b73c1a61de8aac5069f09c391095",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "dd7fba67b56e14a5043329f711f4886456dc60572bdf07958971cc67715ad6af",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "503723a4d15ba80a2cb2b3320ab2d5e49b84feb615e6fbdbdc32c6fb4e848db5",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "3127720bdf0532a4876931a3cb106167756985f15d3e17d423bf1d61e9fdc0cc"
+  },
+  "release_predictions_sha256": "972f8f30e8f9aa508ee2c67e34e773ba3996b73c1a61de8aac5069f09c391095"
+}

@@ -1,0 +1,32 @@
+{
+  "answer_model": {
+    "parameters": 3085938688,
+    "trainable_parameters": 0,
+    "parameter_bytes": 6171877376,
+    "resolved_model_revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1"
+  },
+  "sentence_encoder": {
+    "parameters": 22713216,
+    "trainable_parameters": 0,
+    "parameter_bytes": 90852864,
+    "resolved_model_revision": null
+  },
+  "cell": {
+    "parameters": 398726,
+    "trainable_parameters": 398726,
+    "parameter_bytes": 1594904,
+    "resolved_model_revision": null
+  },
+  "reader": {
+    "parameters": 295168,
+    "trainable_parameters": 295168,
+    "parameter_bytes": 1180672,
+    "resolved_model_revision": null
+  },
+  "adapter": {
+    "parameters": 16942080,
+    "trainable_parameters": 16942080,
+    "parameter_bytes": 67768320,
+    "resolved_model_revision": null
+  }
+}

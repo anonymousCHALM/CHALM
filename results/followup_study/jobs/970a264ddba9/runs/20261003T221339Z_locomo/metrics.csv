@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+hybrid_growing_rag,1986,,0.2162150693434669,0.081067472306143,0.33714379497018315

@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,bm25_cache,300,0.77
+500,bm25_cache,225,0.7866666666666666
+1000,bm25_cache,150,0.76
+5000,bm25_cache,150,0.7533333333333333

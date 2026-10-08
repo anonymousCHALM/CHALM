@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,vanilla,300,0.0
+500,vanilla,225,0.0
+1000,vanilla,150,0.0
+5000,vanilla,150,0.0

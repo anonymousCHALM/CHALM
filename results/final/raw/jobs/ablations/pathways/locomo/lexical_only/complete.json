@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "locomo_lexical_only",
+    "seed": 13,
+    "dataset": "locomo",
+    "agent": "lexical_only",
+    "group": "ablations/pathways",
+    "training_seed": null,
+    "folder": "ablations/pathways/locomo/lexical_only"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "66823282f92a67d6922d87873145adb9b916ae385fd01076085c0fe86e0d99fd",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "c199af7ce42fa661bc6f60e25cc9b03028464b6d424a1785b9dac8357fefd61a",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "93b954e3e09e3e80be1dc87ac7911af13118862f6c1d8eeaf2e393924827ab08",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "ea203728d8e6f291558f112c92a24afbe4dc11cefa2405e96ef13bdc324c906c",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "66106482f7fd09bf6f88f824d4c7d36749ac2c2208fe207ba1dbffc1510cd97e"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "293f093428de4f938f0b3799b6165c32aef179e17266d6fe591be17badbfd2d6",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "201d22007c65b35a9a6c90b4f272e9a78043c67c155d179331a45ab7922d1831",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "c199af7ce42fa661bc6f60e25cc9b03028464b6d424a1785b9dac8357fefd61a",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "93b954e3e09e3e80be1dc87ac7911af13118862f6c1d8eeaf2e393924827ab08",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "ea203728d8e6f291558f112c92a24afbe4dc11cefa2405e96ef13bdc324c906c",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "66106482f7fd09bf6f88f824d4c7d36749ac2c2208fe207ba1dbffc1510cd97e"
+  },
+  "release_predictions_sha256": "c199af7ce42fa661bc6f60e25cc9b03028464b6d424a1785b9dac8357fefd61a"
+}

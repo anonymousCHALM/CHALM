@@ -1,0 +1,11 @@
+project: CHALM
+training_seeds:
+- 13
+- 29
+- 31
+checkpoints:
+  13: results/final/raw/jobs/training/seed_13/attempts/attempt_001/training_artifacts/checkpoints/best.pt
+  29: results/final/raw/jobs/training/seed_29/attempts/attempt_003/training_artifacts/checkpoints/best.pt
+  31: results/final/raw/jobs/training/seed_31/attempts/attempt_001/training_artifacts/checkpoints/best.pt
+extra_training_seeds: []
+output: results/evaluation_study

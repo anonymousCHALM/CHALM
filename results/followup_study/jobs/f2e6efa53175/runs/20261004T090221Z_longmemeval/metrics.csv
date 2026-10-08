@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match
+bm25_growing_rag,450,,0.22611058009727342,0.15555555555555556

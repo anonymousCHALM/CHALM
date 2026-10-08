@@ -1,0 +1,5 @@
+horizon,agent,examples,accuracy
+100,uncentered,300,0.77
+500,uncentered,225,0.8488888888888889
+1000,uncentered,150,0.8533333333333334
+5000,uncentered,150,0.8533333333333334

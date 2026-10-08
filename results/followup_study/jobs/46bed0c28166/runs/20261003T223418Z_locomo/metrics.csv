@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+hybrid_fifo_rag,1986,,0.19664113645229453,0.07603222557905337,0.3217644416712382

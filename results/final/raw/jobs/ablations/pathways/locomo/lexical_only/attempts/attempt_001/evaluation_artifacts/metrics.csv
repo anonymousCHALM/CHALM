@@ -1,0 +1,2 @@
+agent,examples,official_score,diagnostic_token_f1,diagnostic_exact_match,locomo_official_qa_score
+lexical_only,1986,,0.15637046739583602,0.055891238670694864,0.3099564346531761

@@ -1,0 +1,7 @@
+[
+  "python",
+  "--config",
+  "--checkpoint",
+  "--start-index",
+  "50"
+]

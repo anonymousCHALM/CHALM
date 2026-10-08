@@ -1,0 +1,7 @@
+agent,question_type,examples,diagnostic_token_f1,diagnostic_exact_match,locomo_category_qa_score
+chalm,knowledge-update,78,0.46410524173682066,0.34615384615384615,
+chalm,multi-session,133,0.1043419805480222,0.07518796992481203,
+chalm,single-session-assistant,56,0.45235443095330136,0.3392857142857143,
+chalm,single-session-preference,30,0.042099846952426474,0.0,
+chalm,single-session-user,20,0.5597621193959867,0.4,
+chalm,temporal-reasoning,133,0.1445305302746349,0.08270676691729323,

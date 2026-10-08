@@ -1,0 +1,31 @@
+{
+  "job": {
+    "key": "locomo_chalm_13",
+    "seed": 13,
+    "dataset": "locomo",
+    "agent": "chalm",
+    "group": "main",
+    "training_seed": 13,
+    "folder": "main/locomo/chalm/seed_13"
+  },
+  "result": "attempts/attempt_001/evaluation_artifacts",
+  "attempt": "attempts/attempt_001",
+  "artifacts": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "90d41bbe309fe119bc8b12d995cbb3dbbcd014aeb56bed8e287a02661b26fd30",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "d5e0c1b3a8d2cd09966bd49f37ca687f34efbcbcf4db2a4ecc4272d6a5b24c67",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e1c5e531e7436666c36820725d0fdf9a7f94fd9a3308677f6a48215e60a4366d",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "f6a215893d85af6cc8f725ffc2b96e7c72f79a8177d48c536037d01324c05407",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "7f621b778f7d5457a206049746724528acfe5d4190a3bcb80274b387e877fbea",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "148f0d0a9d873968d111f77dea44485f662e824f845b7ef9b32dbdc166f4317b"
+  },
+  "publication_note": "Workstation paths normalized and removed rendering-tool references excluded. Scores, predictions and final checkpoint bytes unchanged.",
+  "release_artifact_sha256": {
+    "attempts/attempt_001/evaluation_artifacts/dataset_manifest.json": "90d41bbe309fe119bc8b12d995cbb3dbbcd014aeb56bed8e287a02661b26fd30",
+    "attempts/attempt_001/evaluation_artifacts/config.yaml": "5275cf3edca2e40af9c5d1834d45be554d8c03ef2ceac1923300ef99d0f868cf",
+    "attempts/attempt_001/evaluation_artifacts/predictions.jsonl": "e1c5e531e7436666c36820725d0fdf9a7f94fd9a3308677f6a48215e60a4366d",
+    "attempts/attempt_001/evaluation_artifacts/metrics.csv": "f6a215893d85af6cc8f725ffc2b96e7c72f79a8177d48c536037d01324c05407",
+    "attempts/attempt_001/evaluation_artifacts/memory.csv": "7f621b778f7d5457a206049746724528acfe5d4190a3bcb80274b387e877fbea",
+    "attempts/attempt_001/evaluation_artifacts/latency.csv": "148f0d0a9d873968d111f77dea44485f662e824f845b7ef9b32dbdc166f4317b"
+  },
+  "release_predictions_sha256": "e1c5e531e7436666c36820725d0fdf9a7f94fd9a3308677f6a48215e60a4366d"
+}

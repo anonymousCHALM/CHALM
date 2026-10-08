@@ -1,0 +1,3 @@
+agent,examples,locomo_official_qa_score,evaluation_seed,source,predictions
+hybrid_fifo_rag,1986,0.3217644416712382,29001,results\followup_study\jobs\46bed0c28166\runs\20261003T223418Z_locomo\metrics.csv,results\followup_study\jobs\46bed0c28166\runs\20261003T223418Z_locomo\predictions.jsonl
+hybrid_growing_rag,1986,0.33714379497018315,29001,results\followup_study\jobs\970a264ddba9\runs\20261003T221339Z_locomo\metrics.csv,results\followup_study\jobs\970a264ddba9\runs\20261003T221339Z_locomo\predictions.jsonl
